@@ -1,0 +1,2 @@
+1) Use an online tool to extracttext from the image (https://ocr.space).
+2) From the extracted text get the encrypted flag and decrypt in using rot13.com 
