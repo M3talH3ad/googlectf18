@@ -1,0 +1,3 @@
+Use binwalk utility to find the hieedn file.
+To extract the files use binwalk -e foo.ico.
+Now one the files have your flag. 
