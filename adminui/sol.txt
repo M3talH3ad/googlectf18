@@ -1,0 +1,5 @@
+This is path traversal attack, in which the user is reading a file from a given path. 
+
+This can be seen when you choose option 2, we have to write the name of the filelike 'Version0.3' and to check whether the path can be injected in this, we give it an input of './Version0.3'. 
+
+Once I figured this out, all I did was. '../flag' and i recieved the flag.
